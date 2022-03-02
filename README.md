@@ -1,4 +1,4 @@
-#SQL practice & challenge 
+# SQL practice & challenge 
 
 ## 필수역량
 데이터 분석가로써 필수역량인 SQL을 기초부터 다시 복습하고 심화 문제까지 풀어보기
